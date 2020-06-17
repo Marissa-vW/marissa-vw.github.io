@@ -1,11 +1,8 @@
-body {
-    padding-top: 5rem;
-}
-
 h1, h2, h3, body, p {
     font-family: 'Nova Square', cursive;
 }
 
 image {
-    width: 100%;
+    width: 100vw;
+    max-width: 100vw;
 }
